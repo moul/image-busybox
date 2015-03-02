@@ -5,6 +5,7 @@ VERSION_ALIASES =
 TITLE =			Busybox
 DESCRIPTION =		Busybox
 SOURCE_URL =		https://github.com/online-labs/image-busybox
+SHELL =			/bin/sh
 
 
 ## Image tools  (https://github.com/online-labs/image-tools)
